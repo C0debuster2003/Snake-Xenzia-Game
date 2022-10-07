@@ -16,7 +16,7 @@ wn.bgcolor("blue")
 # the width and height can be put as user's choice
 wn.setup(width=600, height=600)
 wn.tracer(0)
- 
+#implementing the head
 # head of the snake
 head = turtle.Turtle()
 head.shape("square")
